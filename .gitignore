@@ -1,0 +1,7 @@
+/build
+*.data
+.vscode
+log
+*.svg
+*.out
+/test/*.txt

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the implementation of the paper, "NStore: A High-Performance NUMA-Aware Key-Value Store for Hybrid Memory".
+This is the implementation of the paper, "NStore: A High-Performance NUMA-Aware Key-Value Store for Hybrid Memory" (IEEE TC 2024).
 
 ## Compile & Run
 
